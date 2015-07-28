@@ -7,4 +7,3 @@ You can try the latest builds of VersionOne with CommitStream installed at http:
 
 You can see the testing page for just the CommitStream build itself at http://v1commitstream-test.azurewebsites.net
 
-Update readme file.
